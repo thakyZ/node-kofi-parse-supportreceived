@@ -1,0 +1,7 @@
+{
+  "eslint.useESLintClass": true,
+  "eslint.options": {
+    "overrideConfigFile": ".eslintrc.cjs"
+  },
+  "eslint.lintTask.options": ". --ignore-pattern node_modules/"
+}
